@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dontpad App</string>
+    <string name="stringTag" translatable="false">Tag</string>
+    <string name="stringText">Text</string>
+    <string name="stringPictures">Pictures</string>
+</resources>
